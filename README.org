@@ -1,0 +1,12 @@
+* projecteuler
+
+Experiments and solutions to some Project Euler problems from a
+Pittsburgh Clojure meet-ups.
+
+http://projecteuler.net/problems
+
+** License
+
+Copyright © 2012 Bruce Adams, Ben Haskell
+
+Distributed under the Eclipse Public License, the same as Clojure.
